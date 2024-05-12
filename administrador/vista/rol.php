@@ -46,7 +46,7 @@ $nombre=$fila_usu['nombrerol'];
 								?>
                     </tbody>
                 </table>
-                <a href="../controles/rol_agregar.php" class="btn btn-danger" class="button">AGREGAR</a>
+                <a href="../controles/rol_agregar.php" class="btn bs-success" class="button">AGREGAR</a>
                 <a href="rol_botoneditar.php?ID_rol=<?php echo $ID_rol;?>" class="btn btn-danger"
                     class="button">EDITAR</a>
                 <a href="rol_botoneliminar.php?id=<?php echo $ID_rol;?>" class="btn btn-danger"
