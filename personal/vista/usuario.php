@@ -60,7 +60,7 @@
 
                     </tbody>
                 </table>
-                <a href="../controles/usuario_agregar.php" class="btn btn-danger" class="button">AGREGAR</a>
+                <a href="../controles/usuario_agregar.php" class="btn bs-success" class="button">AGREGAR</a>
                 <a href="usuario_botoneditar.php" class="btn btn-danger" class="button">EDITAR</a>
                 <a href="usuario_botoneliminar.php" class="btn btn-danger" class="button">ELIMINAR</a>
             </div>
