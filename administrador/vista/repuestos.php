@@ -63,7 +63,7 @@
             </div>
             <div>
 
-                <a href="../controles/repuesto_agregar.php" class="btn btn-danger" class="button">AGREGAR</a>
+                <a href="../controles/repuesto_agregar.php" class="btn bs-success" class="button">AGREGAR</a>
                 <a href="repuesto_botoneditar.php" class="btn btn-danger" class="button">EDITAR</a>
                 <a href="detallerepuestos.php" class="btn btn-danger" class="button">AGREGAR DETALLE</a>
             </div>
