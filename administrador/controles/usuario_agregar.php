@@ -54,7 +54,7 @@ PERSONAL
 <br>
 <br>
 		 
-<input type="submit" class="form-control" name="" Value="AGREGAR DISPOSITIVO">
+<input type="submit" class="form-control" name="" Value="AGREGAR USUARIO">
 
 
   </form>  
